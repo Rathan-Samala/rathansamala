@@ -24,26 +24,26 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "rathansites.jpg"
-  name             : "Rathan"
+  name             : "Samala Rathan"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  bio              : #"Short biography for the left-hand sidebar"
+  location         : "Visakhapatnam"
+  employer         : "Indian Instiute of Petroleum and Energy Visakhaptnam"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "rathans.math@iipe.ac.in" 
 
   # Academic websites
   academia         : # URL
-  arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  arxiv            : "https://arxiv.org/search/math?query=samala+rathan&searchtype=author&abstracts=show&order=-announced_date_first&size=50"
+  googlescholar    : "https://scholar.google.com/citations?user=zQgZ18kAAAAJ&hl=en"
   inspire-hep      : # URL
   impactstory      : # URL
-  orcid            : "https://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/0000-0001-7718-7801"
   semantic         : # URL
   ssrn             : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  researchgate     : # URL
-  scopus           : # URL
+  pubmed           : # URL
+  researchgate     : "https://www.researchgate.net/profile/Rathan-Samala-2"
+  scopus           : "https://www.scopus.com/authid/detail.uri?authorId=57193773690"
   zotero           : # URL
 
 
